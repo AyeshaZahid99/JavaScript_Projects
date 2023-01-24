@@ -81,3 +81,28 @@ Equality Operators come in two flavours:
 ===(checks for similar values as well as similar data types) ALSO called "Strict Equality".
 
 
+Over View Of Chapter#03
+
+                   JavaScript Multiple Values
+The positional value of the last element in the Array will be one fewer than the total number of elements.
+
+Array Methods:
+Methods are functions on certain object , instead of holding values like properties they perform "action".
+
+using .push method value gets pushed to the end of the array.
+
+Reversing puts the last element first and the first elememt last, no matter whether the array is sorted or not.
+
+As Arrays can contain any data type, also they can contain other arrays as well  --> MULTIDIMENTIONAL ARRAYS
+
+Array of already existing arrays is called "Two Dimentional Arrays"
+
+Arrays are very special type of Objects.
+
+Arrays are objects with indexed properties.
+Objects are here with named properties.
+An Object is a chance to group multiple variables into one.
+
+
+
+
