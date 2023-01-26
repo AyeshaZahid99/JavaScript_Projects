@@ -103,6 +103,19 @@ Arrays are objects with indexed properties.
 Objects are here with named properties.
 An Object is a chance to group multiple variables into one.
 
+Over View Of Chapter#03
+
+                          Logical Statements
+Logical statement allows us to make multiple paths in our code, depending on the outcome of a certain  expression, we will follow one code path or  another.
+
+Conditional Ternary Operators
+Unary Operator: having one "Operand" only.
+Ternary Operator: having "Three Operands".
+
+Switch Statements:
+Better to use instead of if else if , when there are more than 4 or 5 values.
+"switch"uses strict type  checking (triple equals strategy)
+to determine equality checks for both a value and datatype.
 
 
 
